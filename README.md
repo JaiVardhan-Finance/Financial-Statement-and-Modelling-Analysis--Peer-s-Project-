@@ -2,7 +2,7 @@ Key Components of the Project:
 
 Financial Data Analysis: Detailed examination of the organization's financial statements, including income statements, balance sheets, and cash flow statements. This analysis involved calculating key financial ratios such as liquidity ratios, profitability ratios, and leverage ratios to gain insights into the company's performance.
 
-Financial Modeling: Construction of comprehensive financial models using various methodologies. The project included building Discounted Cash Flow (DCF) models to estimate the intrinsic value of the company, as well as sensitivity analysis to assess the impact of different assumptions on the model's outcomes.
+Financial Modeling: Construction of comprehensive financial models using various methodologies. The project included building three statement model to analyse the financial health of the company , as well as sensitivity analysis to assess the impact of different assumptions on the model's outcomes.
 
 Comparative Analysis: Comparison of the organization's financial performance with industry peers to identify strengths, weaknesses, and competitive positioning. This involved benchmarking key financial metrics and identifying areas for improvement.
 
